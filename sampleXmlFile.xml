@@ -1,0 +1,11 @@
+
+<Person>
+   <Details name="UmaChaitanya">
+      <Name name="name">Uma Tanneru</Name>
+      <Name name="name">Tanneru Uma</Name>
+   </Details>
+   <Details age="age">
+      <Age age="number">23</Age>
+      <Age age="number">24</Age>
+   </Details>
+</Person>
